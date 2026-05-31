@@ -61,7 +61,7 @@ Run the Jupyter Notebooks sequentially:
 2. `notebooks/ASL_ML_and_DL_Benchmarks.ipynb` - For Custom CNN, VGG16, MobileNet, and Fine-Tuning.
 
 ---
-
-### 👨‍💻 Author
+```
+## 👨‍💻 Author
 - **Abdelrhman Hany**
 - GitHub: [@AbdelrhmanHany3](https://github.com/AbdelrhmanHany3)
