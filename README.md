@@ -60,7 +60,6 @@ Run the Jupyter Notebooks sequentially:
 1. `notebooks/AI_Practical_Project_Processing.ipynb` - For Preprocessing, SVM, and KNN.
 2. `notebooks/ASL_ML_and_DL_Benchmarks.ipynb` - For Custom CNN, VGG16, MobileNet, and Fine-Tuning.
 
----
 ```
 ## 👨‍💻 Author
 - **Abdelrhman Hany**
